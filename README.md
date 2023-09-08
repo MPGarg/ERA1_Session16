@@ -1,5 +1,5 @@
 # Speed up of Transformer Model (encoder-decoder) for Language Translation English to French (Opus Book dataset)
-## ERAv1 Partner Madhur Prakash Garg
+## ERAv1 Partner Rashi Agarwal
 
 ## Final Result : Training Loss 1.71 at 33rd Epoch
 
